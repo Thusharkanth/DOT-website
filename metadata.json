@@ -1,0 +1,6 @@
+{
+  "name": "DOT Technical Systems",
+  "description": "An interactive digital showroom and customizer for DOT Systems hardware, featuring customizable components, technical specs, and a seamless tactile experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
